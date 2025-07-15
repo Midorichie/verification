@@ -1,0 +1,6 @@
+[project]
+name = "identity-verification-badge"
+
+[[contracts]]
+name = "id-badge"
+path = "contracts/id-badge.clar"
